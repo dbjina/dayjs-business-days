@@ -1,6 +1,6 @@
 {
   "name": "dayjs-business-days",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Day.js plugin to add support for calculating dates only accounting for Business days",
   "main": "index.min.js",
   "module": "index.min.js",
@@ -44,6 +44,7 @@
     "eslint-plugin-security": "^1.4.0",
     "jest": "^25.3.0",
     "prettier": "^2.0.4",
-    "terser": "^4.6.11"
+    "terser": "^4.6.11",
+    "typescript": "^4.2.3"
   }
 }
